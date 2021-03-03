@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /*
-Created in 09/2020
-@Author: Paulo https://github.com/alpdias
+Created in 02/2021
+@Author: Shubham "https://github.com/shubham-ch"
 */
 
 /* FONTS */
@@ -48,11 +48,11 @@ body {
 }
 
 .soon {
-    background-image: url(../../img/soon-paulo-white-128.png);
+    background-image: url(../../img/sign.jpg);
     background-repeat: no-repeat;
     display: block;
-    width: 128px;
-    height: 32px;
+    width: 160px;
+    height: 60px;
     text-indent: -9999px;
     margin: 0px;
 }

@@ -1,6 +1,6 @@
 /*
-Created in 09/2020
-@Author: Paulo https://github.com/alpdias
+Created in 02/2021
+@Author: Shubham "https://github.com/shubham-ch"
 */
 
 let buttonElement = document.querySelector('.main-menu__btn');
